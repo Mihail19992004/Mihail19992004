@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- Hello, my name is Mihail. I am web developer. I learn fronend about one year </br>
+- Hello, my name is Mihail. I am web developer. I learn fronend about one year
+-  ---
 - My skills: HTML, CSS/Sass, figma, JavaScript, git/github, React Js, Node Js, npm, Express Js, MongoDB 
 - Language: Russian(native), English(Intermediate)
 <!--
