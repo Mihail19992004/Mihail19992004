@@ -1,6 +1,6 @@
--Всем привет! Меня зовут Миша и я начинающий фронтенд раздаботчик. <br/>
+-Всем привет! Меня зовут Михаил и я начинающий фронтенд раздаботчик. <br/>
 -Я разрабатываю приложения на языке javascript, и в часности на фреймворке реакт около года <br/>
 -Знаю такие технологии как:<br/>
--JavaScript(es6), React, HTML, CSS/Sass,  Express, nodeJS, mongoose,  git/github </br>
+-JavaScript(es6), React, HTML, CSS/Sass, Figma, Express, nodeJS, mongoose,  git/github </br>
 -Владею английским языком на уровне Intermediate  <br/>
 -Быстро учусь и хочу развиваться в веб разработке <br/>
