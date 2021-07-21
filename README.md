@@ -1,19 +1,6 @@
-### Hi there 👋
-
-- Hello, my name is Mihail. I am web developer. I learn fronend about one year
-- My skills: HTML, CSS/Sass, figma, JavaScript, git/github, React Js, Node Js, npm, Express Js, MongoDB 
-- Language: Russian(native), English(Intermediate)
-<!--
-**Mihail19992004/Mihail19992004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Всем привет! Меня зовут Миша и я начинающий фронтенд раздаботчик.
+-Я разрабатываю приложения на языке javascript, и в часности на фреймворке реакт около года
+-Знаю такие технологии как:
+-JavaScript(es6), React, HTML, CSS/Sass,  Express, nodeJS, mongoose,  git/github,
+-Владею английским языком на уровне Intermediate
+-Быстро учусь и хочу развиваться в веб разработке 
