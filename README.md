@@ -2,12 +2,18 @@
 Я разрабатываю приложения на языке javascript, и в часности на фреймворке реакт около года <br/>
 -Знаю такие технологии как:<br/>
 JavaScript(es6)</br>
+TypeScript</br>
+Redux</br>
 React</br>
 HTML</br>
 CSS/Sass/Scss/Less</br>
 Figma</br>
 Express</br>
 nodeJS</br>
+SQL</br>
+PostgreSQL</br>
+MYSQL</br>
+MongoDB</br>
 mongoose</br>
 git/github </br>
 -Владею английским языком на уровне Intermediate  <br/>
