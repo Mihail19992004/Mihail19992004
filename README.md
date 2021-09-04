@@ -5,15 +5,17 @@ JavaScript(es6)</br>
 TypeScript</br>
 Redux</br>
 React</br>
+NextJS</br>
 HTML</br>
 CSS/Sass/Scss/Less</br>
 Figma</br>
 Express</br>
-nodeJS</br>
+NodeJS</br>
 SQL</br>
 PostgreSQL</br>
 MYSQL</br>
 MongoDB</br>
+NestJS</br>
 mongoose</br>
 git/github </br>
 -Владею английским языком на уровне Intermediate  <br/>
